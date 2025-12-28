@@ -1,4 +1,4 @@
-<img width="981" height="283" alt="image" src="https://github.com/user-attachments/assets/bb392461-d093-4bae-8d93-2dc871be717a" /><img width="832" height="281" alt="image" src="https://github.com/user-attachments/assets/611dfdbb-5528-4019-98bf-fffe27ed25f0" /><img width="656" height="737" alt="image" src="https://github.com/user-attachments/assets/e6279df2-476b-475a-9654-bab7b10318c9" /># Методологии IDEF
+
 
 ## 1. Концепция IDEF
 
